@@ -1,6 +1,6 @@
 {
   "name": "charting-complexity",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Charts for displaying information from a PostgreSQL database.",
   "main": "index.js",
   "directories": {
