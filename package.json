@@ -1,0 +1,34 @@
+{
+  "name": "charting-complexity",
+  "version": "0.0.0",
+  "description": "Charts for displaying information from a PostgreSQL database.",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^4.1.2"
+  },
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/McGizzle/Charting-Complexity.git"
+  },
+  "keywords": [
+    "postgresql",
+    "node",
+    "javascript"
+  ],
+  "author": "McGizzle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/McGizzle/Charting-Complexity/issues"
+  },
+  "homepage": "https://github.com/McGizzle/Charting-Complexity#readme"
+}
